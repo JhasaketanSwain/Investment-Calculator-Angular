@@ -1,0 +1,34 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p{
+  text-align: center;
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #fb0505;
+}
+  
+table{
+  width: 100%;
+  max-width: 600px;
+  margin: 20px auto;
+  border-collapse: collapse;
+  border: 1px solid;
+}
+
+th, td{
+  padding: 10px;
+  border: 1px solid #030303;
+  text-align: center;
+}
+
+th{
+  background-color: #afc2c7;
+}
+  
+
+  
